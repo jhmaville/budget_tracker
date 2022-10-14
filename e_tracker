@@ -1,3 +1,5 @@
+import Java.util.Scanner
+
 public class e_tracker {
   public static void main(String [] args){
   
